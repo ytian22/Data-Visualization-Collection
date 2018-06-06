@@ -5,5 +5,5 @@ This report discusses the gender distribution of Winter Olympics medal awarding 
 
 ## Context
 As an overview, the number of medal winners increase over time, with a slowdown during 1965-1980, as Figure 1 shows. 
-![img](figure1.png)
+![img](https://github.com/ytian22/Data-Visualization-Collection/blob/master/Tableau/Picture1.png)
 
